@@ -1,10 +1,9 @@
 ---
-{
-    id: UP-W
-    name: Union Pacific West
-}
-{
-    id: MD-W
-    name: Milwaukee District West
-}
-
+-
+  id: UP-W
+  name: Union Pacific West
+  color: '#fda2fb'
+-
+  id: MD-W
+  name: Milwaukee District West
+  color: '#ff9200'
