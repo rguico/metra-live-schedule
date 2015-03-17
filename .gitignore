@@ -26,3 +26,5 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+metra-live-schedule.sublime-project
+metra-live-schedule.sublime-workspace
