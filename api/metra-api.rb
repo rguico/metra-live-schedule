@@ -1,3 +1,8 @@
+require 'bundler'
+require 'rubygems'
+
+Bundler.require
+
 require 'sinatra'
 require 'yaml'
 require 'sinatra/json'

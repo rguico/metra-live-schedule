@@ -1,0 +1,24 @@
+{
+  "name": "metra-live-schedule",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rguico/metra-live-schedule",
+  "authors": [
+    "Robert Guico <rguico@gmail.com>"
+  ],
+  "keywords": [
+    "metra",
+    "react"
+  ],
+  "description": "Metra schedule that updates automatically with latest data from Metra's website.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.1"
+  }
+}
