@@ -1,0 +1,26 @@
+{
+  "name": "metra-live-schedule",
+  "version": "0.0.0",
+  "description": "Metra live schedule",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rguico/metra-live-schedule.git"
+  },
+  "keywords": [
+    "metra",
+    "schedule"
+  ],
+  "author": "Robert Guico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rguico/metra-live-schedule/issues"
+  },
+  "homepage": "https://github.com/rguico/metra-live-schedule",
+  "devDependencies": {
+    "webpack": "^1.7.3"
+  }
+}
